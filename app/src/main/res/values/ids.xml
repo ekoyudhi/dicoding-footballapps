@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="event_date" type="id" />
+    <item name="event_time" type="id" />
+    <item name="away_team" type="id" />
+    <item name="away_score" type="id" />
+    <item name="home_team" type="id" />
+    <item name="home_score" type="id" />
+    <item name="vs" type="id" />
+    <item name="list_event" type="id" />
+    <item name="list_event_next" type="id" />
+    <item name="list_event_past" type="id" />
+    <item name="list_event_players" type="id" />
+    <item name="list_event_matches" type="id" />
+    <item name="list_event_teams" type="id" />
+    <item name="con_layout" type="id" />
+    <item name="img_team" type="id" />
+    <item name="name_team" type="id" />
+    <item name="img_player_frag" type="id" />
+    <item name="name_player_frag" type="id" />
+    <item name="pos_player_frag" type="id" />
+    <item name="overview" type="id" />
+    <item name="event_date_detail" type="id" />
+    <item name="event_time_detail" type="id" />
+    <item name="away_team_detail" type="id" />
+    <item name="away_score_detail" type="id" />
+    <item name="home_team_detail" type="id" />
+    <item name="home_score_detail" type="id" />
+    <item name="vs_detail" type="id" />
+    <item name="alarm_button" type="id" />
+    <item name="teams_frag" type="id" />
+</resources>
